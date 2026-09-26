@@ -15,7 +15,7 @@ A medium-level fitness tracking app built with PHP, MySQL, Bootstrap, and vanill
 3. Open phpMyAdmin at `http://localhost/phpmyadmin/`.
 4. Import `database.sql`. It creates and selects the `fitness_tracker` database and its tables.
 5. Confirm `includes/db.php` matches your local MySQL settings. It is configured for host `127.0.0.1`, database `fitness_tracker`, user `root`, and a blank password.
-6. Visit `http://localhost/Fitness%20Tracker/`.
+6. Visit `http://localhost/Fitness_Tracker/`.
 
 The default WAMP root account with no password is suitable only for a local development environment. Set a password and update `includes/db.php` before exposing the app to a network.
 
